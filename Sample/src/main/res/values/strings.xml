@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HandControlTableView</string>
+    <string name="LevelQuantity">Level(Q): %1$d</string>
+    <string name="OnLevelDegreeChanged">Result: Level: %1$d Degree: %2$d</string>
+    <string name="TouchEventEnabled">TouchEvent %1$s</string>
+    <string name="ReturnOriginEnabled">Position Origin Return %1$s</string>
+</resources>

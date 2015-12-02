@@ -1,2 +1,2 @@
 # AndroidHandControlTableView
-According to 
+According to position and return degree and zone level.
